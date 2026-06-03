@@ -2,8 +2,7 @@ FAERS Q4 2025 Adverse Event Analysis
 
 
 Disclaimer: 
-This project was developed using an AI-assisted learning workflow (Claude as a technical mentor for guidance, debugging support, and concept clarification). All analyses, interpretations, and conclusions were iteratively developed and validated by the author through hands-on exploration of FAERS data in SQL and Python.
-
+This project is a self-directed analysis of FDA FAERS data using SQL and Python (pandas). I used AI tools for debugging support, technical clarification, and iterative learning while building the analysis.
 
 Project Overview
 This project analyzes publicly available FDA Adverse Event Reporting System (FAERS) data from Q4 2025 (October–December). FAERS is an FDA database containing post-market drug safety reports submitted by patients, healthcare providers, and manufacturers. The goal of this analysis is to identify patterns in serious adverse outcomes — specifically deaths and hospitalizations — across drug classes, patient demographics, and reporting sources using a combined SQL and Python workflow.
