@@ -2,8 +2,7 @@ FAERS Q4 2025 Adverse Event Analysis
 
 
 Disclaimer: 
-This README was created using Claude and the entire project was suggested by Claude as a good 
-way for me to learn SQL, PANDAS, and Jupyter Notebooks with minimal focus on Matplotlib visualization toward the end. The actual analysis within the markdown cells is primarily my own commentary after data analysis and consulting with Claude. This is a practice exercise designed to showcase my self-taught ability to perform data analysis using advanced tools and programming despite being a pre-Pharmacy student. 
+This project was developed using an AI-assisted learning workflow (Claude as a technical mentor for guidance, debugging support, and concept clarification). All analyses, interpretations, and conclusions were iteratively developed and validated by the author through hands-on exploration of FAERS data in SQL and Python.
 
 
 Project Overview
